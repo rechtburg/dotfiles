@@ -1,0 +1,11 @@
+" ウィンドウの縦幅
+set lines=55
+" ウィンドウの横幅
+set columns=180
+
+autocmd ColorScheme * highlight LineNr ctermfg=239
+
+" カラースキーム
+colorscheme molokai
+
+set background=darkblue
